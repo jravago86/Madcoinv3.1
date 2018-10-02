@@ -2,6 +2,8 @@
 MadcoinCoin v3.1 [MDC] Source Code
 ================================
 
+-Mandatory Upgrade-
+
 http://www.madcoin.life
 
 
